@@ -1,0 +1,11 @@
+id: test-policy
+name: test-policy
+description: test policy
+category: Custom
+type: custom
+resourceLevelSupported: true
+encryptionSupported: false
+standalone: true
+requiredCharacteristics: []
+providedCharacteristics: []
+configuration: []
